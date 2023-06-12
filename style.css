@@ -1,0 +1,202 @@
+* {
+    padding: 0;
+    margin: 0;
+    cursor: url("data:image/x-icon;base64,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Cg8BAwQCBAQEBAQFBwcMDQsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcGhoEBAQKCgoUExUAAAAAAAAAAAAFBAUGBgYGBwUIBgUBAgEKCAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArKSkjIyMAAAAAAAAAAAAAAAAWFBQmJCMIBgUFAwEKCAcZFxYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXExIWEw8WEw8XFBMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////+A//8AAH//AAB//gAAf/4AAH//AAH//4AD///gB///4Af//+AH//4gAP//AAH//wAB//+AA///wAP//8AH///gD///4A///+AP///gD///4A///+AH//8AD//+AA///gAP//4AB//+Bgf//w4H//+eB////w///////w=="),
+      auto;
+  }
+  a {
+    cursor: url("data:image/x-icon;base64,AAACAAEAICACAAAAAAAwAQAAFgAAACgAAAAgAAAAQAAAAAEAAQAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9AAAAfwAAAOqAAAHqgAAB6sAAA//AAAd/wAAGf8AAAG9AAABtAAAAYAAAAGAAAABgAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////////////////////gn///4B///8Af//+AD///AA///wAH//4AB//8AAf//AAH//5AB///wA///8A////D////w////8P////n////////////////////////////////////////////8="),
+      auto;
+    text-decoration: none;
+    color: #ffffff;
+  }
+  a:hover {
+    color: red;
+  }
+  
+  body {
+    position: relative;
+    width: 1440px;
+    height: 2321px;
+    background: #ffffff;
+  }
+  ul {
+    position: absolute;
+    width: 1441px;
+    height: 197px;
+    left: -1px;
+    top: 0px;
+  
+    background: #1e1e1e;
+  }
+  .inicio {
+    position: absolute;
+    left: 310px;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+  
+    font-family: "Lily Script One";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  
+    color: #ffffff;
+  }
+  .filmes {
+    position: absolute;
+    width: 165px;
+    height: 40px;
+    left: 617px;
+    top: 78px;
+    font-family: "Lily Script One";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+  }
+  .series {
+    position: absolute;
+    width: 162px;
+    height: 40px;
+    left: 910px;
+    top: 78px;
+    font-family: "Lily Script One";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+  }
+  .rodape_text div {
+    position: absolute;
+    width: 1220px;
+    height: 65px;
+    left: 65px;
+    top: 84px;
+  
+    font-family: "Actor";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    align-items: center;
+  
+    color: #ffffff;
+  }
+  .rodape_text {
+    box-sizing: border-box;
+  
+    position: absolute;
+    width: 1450px;
+    height: 197px;
+    left: -12px;
+    top: 2124px;
+  
+    background: #1e1e1e;
+    border-bottom: 1px solid #ffffff;
+  }
+  .banner {
+    position: absolute;
+    width: 1451px;
+    height: 558px;
+    left: calc(50% - 1451px / 2 - 5.5px);
+    top: calc(50% - 558px / 2 - 687.5px);
+  
+    background: url(disney-banner.png);
+  }
+  .encanto {
+    position: absolute;
+    width: 353px;
+    height: 513px;
+    left: 138px;
+    top: 826px;
+    border: 5px 5px solid #000000;
+    border-radius: 61px;
+  }
+  .raya {
+    position: absolute;
+    width: 353px;
+    height: 523px;
+    left: 544px;
+    top: 816px;
+    background: url(raya.jpg);
+    border: 5px 5px solid #000000;
+    border-radius: 61px;
+  }
+  .buzz {
+    position: absolute;
+    position: absolute;
+    width: 353px;
+    height: 518px;
+    left: 950px;
+    top: 819px;
+    background: url(buzz.jpg);
+    border: 5px 5px solid #000000;
+    border-radius: 61px;
+  }
+  .toy {
+    position: absolute;
+    width: 353px;
+    height: 513px;
+    left: 138px;
+    top: 1454px;
+    background: url(toy.jpg);
+    border: 5px 5px solid #000000;
+    border-radius: 61px;
+  }
+  .urso {
+    position: absolute;
+    width: 353px;
+    height: 513px;
+    left: 544px;
+    top: 1454px;
+    background: url(urso.jpg);
+    border: 5px 5px solid #000000;
+    border-radius: 61px;
+  }
+  .luca {
+    position: absolute;
+    width: 353px;
+    height: 513px;
+    left: 950px;
+    top: 1454px;
+    background: url(luca.jpg);
+    border: 5px 5px solid #000000;
+    border-radius: 61px;
+  }
+  .youtube {
+    position: absolute;
+    width: 78px;
+    height: 78px;
+    left: 1088px;
+    top: 2177px;
+    background: url(youtube.png);
+  }
+  .insta {
+    position: absolute;
+    left: 82.08%;
+    right: 13.61%;
+    top: 94.23%;
+    bottom: 3.1%;
+  }
+  .mini_logo {
+    position: absolute;
+    width: 121px;
+    height: 119px;
+    left: 1272px;
+    top: 2156px;
+    background: url(disney-plus.png);
+  }
+  
